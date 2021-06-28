@@ -1,0 +1,65 @@
+<section class="wrapper style3 container special">
+    <header class="major">
+        <h2>Next look at this <strong>cool stuff</strong></h2>
+    </header>
+
+    <div class="row">
+        <div class="col-6 col-12-narrower">
+
+            <section>
+                <a href="#" class="image featured"><img src="/tbz/EaldEngliscWebsite/images/beowulf.jpeg" alt="" /></a>
+                <header>
+                    <h3>Beowulf</h3>
+                </header>
+                <a href="https://commons.wikimedia.org/wiki/File:Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg">anonymous Anglo-Saxon poet</a>, Public domain, via Wikimedia Commons
+                <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+            </section>
+
+        </div>
+        <div class="col-6 col-12-narrower">
+
+            <section>
+                <a href="#" class="image featured"><img src="/tbz/EaldEngliscWebsite/images/queen_pouring_wine.jpg" alt="" /></a>
+                <header>
+                    <h3>Queen pouring wine</h3>
+                </header>
+                <a href="https://commons.wikimedia.org/wiki/File:Stories_of_beowulf_queen_poring_wine.jpg">J. R. Skelton</a>, Public domain, via Wikimedia Commons
+                <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+            </section>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6 col-12-narrower">
+
+            <section>
+                <a href="#" class="image featured"><img src="/tbz/EaldEngliscWebsite/images/sutton_hoo.png" alt="" /></a>
+                <header>
+                    <h3>Hyperspace Travel</h3>
+                </header>
+                <a href="https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png">British Museum</a>, Public domain, via Wikimedia Commons
+                <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+            </section>
+
+        </div>
+        <div class="col-6 col-12-narrower">
+
+            <section>
+                <a href="#" class="image featured"><img src="/tbz/EaldEngliscWebsite/images/lindisfarne_manuscript.jpg" alt="" /></a>
+                <header>
+                    <h3>And Another Train</h3>
+                </header>
+                <a href="https://commons.wikimedia.org/wiki/File:LindisfarneChiRiho.jpg">Eadfrith</a>, Public domain, via Wikimedia Commons
+                <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+            </section>
+
+        </div>
+    </div>
+
+    <footer class="major">
+        <ul class="buttons">
+            <li><a href="#" class="button">See More</a></li>
+        </ul>
+    </footer>
+
+</section>

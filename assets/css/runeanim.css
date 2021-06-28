@@ -1,0 +1,20 @@
+#runes-gloweffect {
+    animation: runes-gloweffect_c_o 4000ms linear 1 normal forwards
+}
+@keyframes runes-gloweffect_c_o {
+    0% {opacity: 0}
+    50% {opacity: 0}
+    100% {opacity: 1}
+}
+
+#runes-path1 {
+    animation: runes-anim1 4000ms linear 1 normal forwards
+}
+@keyframes runes-anim1 {
+    0% {transform: translate(0px,-220px) scale(1,1)}
+    100% {transform: translate(-60px,-100px) scale(2,2)}
+}
+
+#runes {
+    width: 500px;
+}
